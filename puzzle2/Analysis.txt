@@ -23,7 +23,7 @@ Aa
 uP
 
 
-Every letter gets its unique substitute (substituation cypher):
+Every letter gets its unique substitute (substitution encryption):
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 ---------------------------
 cWrXDdkhzMNSsbQTjVtUPwfReZyxiHBnlqGYOAEauoCIFgpvmJLK
