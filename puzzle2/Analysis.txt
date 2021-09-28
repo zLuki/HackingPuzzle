@@ -1,0 +1,35 @@
+The research department found out some usefull hints.
+
+The letters are encoded differently for each execution
+Enter the text you want to encrypt:
+a
+---------------------------
+I
+
+a
+---------------------------
+w
+
+
+Same letters get the same substitute:
+aaaabbbb
+---------------------------
+PPPPGGGG
+
+
+The encryption is case sensitive:
+Aa
+---------------------------
+uP
+
+
+Every letter gets its unique substitute (substituation cypher):
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+---------------------------
+cWrXDdkhzMNSsbQTjVtUPwfReZyxiHBnlqGYOAEauoCIFgpvmJLK
+
+
+Only letters are encoded:
+1234567890?!.,
+---------------------------
+1234567890?!.,
